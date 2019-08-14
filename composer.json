@@ -1,5 +1,5 @@
 {
-    "name": "mdanter/ecc",
+    "name": "sm/phpsm2",
     "description": "PHP Elliptic Curve Cryptography library",
     "type": "library",
     "homepage": "https://github.com/phpecc/phpecc",
